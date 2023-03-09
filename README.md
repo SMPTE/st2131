@@ -21,7 +21,7 @@ The following elements are made available for a public review period ending no e
 
 Public CD of SMPTE ST 2131 - Mapping Audio Definition Model (ADM) and other audio metadata RIFF Chunks to MXF
 
-Public Committee Draft was approved February 23, 2023 and posted to GitHub on [DATE]
+Public Committee Draft was approved February 23, 2023 and posted to GitHub on 2023-03-10
 
 Audio Definition Model (ADM) metadata is specified in Recommendation ITU-R BS.2076. It provides an open, common metadata model that can describe channel-, object-, and scene-based audio to enable immersive and interactive experiences for broadcasting and cinema. In many workflows (particularly for post-produced audio content) the ADM metadata is carried in BW64 files along with PCM audio (Recommendation ITU-R BS.2088).
 
