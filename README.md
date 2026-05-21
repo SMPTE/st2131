@@ -1,4 +1,4 @@
-# Public CD of SMPTE ST 2131
+# SMPTE ST 2131
 
 ## General
 
@@ -9,6 +9,7 @@ Please consult [CONTRIBUTING.md](./CONTRIBUTING.md), [CONFIDENTIALITY.md](./CONF
 
 Please report issues via the repo [Issue Tracker](https://github.com/SMPTE/st2131/issues) or at [31fs-chair@smpte.org](mailto:31fs-chair@smpte.org)
 
+<!-- PCD-INFO:START -->
 ## Public Committee Draft (PCD) Notice
 
 The following elements are made available for a public review period ending no earlier than 2023-09-10, and no later than 2024-03-10:
@@ -28,3 +29,4 @@ Audio Definition Model (ADM) metadata is specified in Recommendation ITU-R BS.20
 SMPTE ST 2131 defines a mechanism for mapping audio metadata RIFF Chunks to MXF files (many audio files are made from RIFF Chunks, including BW64 files). It defines additional MXF support specifically for the mapping and labeling of ADM metadata. This enables use cases such as augmenting TV MXF files with ADM metadata and easy lossless conversion of BW64 files to/from MXF. It also provides the foundation for an IMF Plug-in for adding ADM-described content to Interoperable Master Format (IMF) Compositions (being drafted as SMPTE ST 2067-204).
 
 A Public Committee Draft of SMPTE ST 2131, and sample MXF file, is being provided for review on GitHub <link> for at least six months from 2023-03-10. Developers are encouraged to implement the design and provide feedback via GitHub to improve the document and to increase interoperability between implementations.
+<!-- PCD-INFO:END -->
